@@ -1,6 +1,6 @@
 import { AppPage } from './app.po';
 
-describe('dai-test App', () => {
+describe('angular4-heroes App', () => {
   let page: AppPage;
 
   beforeEach(() => {
